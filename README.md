@@ -80,5 +80,6 @@ Interact with the application to manage invoices.
 
 
 ![App Screenshot](https://github.com/SuvankarDev/djangoinv/blob/main/images/Screenshot%202024-12-04%20141709.png)
+![App Screenshot](https://github.com/SuvankarDev/djangoinv/blob/main/images/Screenshot%202024-12-04%20141739.png)
 
 
