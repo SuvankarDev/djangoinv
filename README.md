@@ -79,6 +79,6 @@ Default URL: http://localhost:3000/
 Interact with the application to manage invoices.
 
 
-![App Screenshot](images/Screenshot2024-12-04141709.png)
+![App Screenshot](https://github.com/SuvankarDev/djangoinv/blob/main/images/Screenshot%202024-12-04%20141709.png)
 
 
