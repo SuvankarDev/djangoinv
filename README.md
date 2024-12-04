@@ -36,22 +36,22 @@ Backend Setup
 Open a terminal for the backend.
 
 Verify Python and Pip installation:
-bash
+
 Copy code
 python --version
 pip --version
 now install all requirement
-bash
+
 copy code 
 pip install -r requirements.txt
 
 
 Navigate to the backend project directory:
-bash
+
 Copy code
 cd invoice-project
 Start the Django development server:
-bash
+
 Copy code
 py manage.py runserver
 
@@ -59,15 +59,15 @@ py manage.py runserver
 Frontend Setup
 Open a second terminal for the frontend.
 Navigate to the frontend project directory:
-bash
+
 Copy code
 cd invoice-management
 Install dependencies:
-bash
+
 Copy code
 npm install
 Start the React development server:
-bash
+
 Copy code
 npm start
 
