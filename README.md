@@ -78,9 +78,7 @@ Open the frontend URL to access the React application.
 Default URL: http://localhost:3000/
 Interact with the application to manage invoices.
 
-DEMO :-
 
-![Alt Text]("C:\Users\suvan\OneDrive\Pictures\Screenshots\Screenshot 2024-12-04 141709.png")
 
 
 
