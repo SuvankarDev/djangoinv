@@ -79,6 +79,6 @@ Default URL: http://localhost:3000/
 Interact with the application to manage invoices.
 
 
-
+![App Screenshot]("C:\Users\suvan\OneDrive\Pictures\Screenshots\Screenshot 2024-12-04 141709.png")
 
 
