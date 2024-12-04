@@ -72,7 +72,7 @@ Copy code
 npm start
 
 Open the backend server URL in your browser to verify the server is running.
-Default URL: http://127.0.0.1:8000/
+Default URL: http://127.0.0.1:8000/api/invoices
 
 Open the frontend URL to access the React application.
 Default URL: http://localhost:3000/
